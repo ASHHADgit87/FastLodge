@@ -1,0 +1,15 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 165 35" width="165" height="35">
+	<title>logo</title>
+	<defs>
+		<image  width="29" height="26" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAaAQMAAABxWMX0AAAAAXNSR0IB2cksfwAAAAZQTFRFAAAA////pdmf3QAAAAJ0Uk5TAP9bkSK1AAAAUklEQVR4nGNk4C9sYGSQX7KXkcF+xU1GhvqGg4wM/xkOMjL+AxLMf4AE/wcgIf8ASNgfYHjIWN/A8JHxPwPDT3QCrASJuMkOJC72O+IhDsY3AgBdXC3LBONqPAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 24px;fill: #ffffff;font-weight: 400;font-family: "Montserrat-Regular", "Montserrat" } 
+	</style>
+	<text id="FastLodge" style="transform: matrix(1,0,0,1,41,23.074)" >
+		<tspan x="0" y="0" class="t0">F</tspan><tspan  y="0" class="t0">a</tspan><tspan  y="0" class="t0">s</tspan><tspan  y="0" class="t0">t</tspan><tspan  y="0" class="t0">L</tspan><tspan  y="0" class="t0">o</tspan><tspan  y="0" class="t0">d</tspan><tspan  y="0" class="t0">g</tspan><tspan  y="0" class="t0">e
+</tspan>
+	</text>
+	<use id="Shape 1" href="#img1" x="3" y="2"/>
+</svg>
