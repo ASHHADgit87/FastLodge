@@ -30,7 +30,7 @@
 - Stripe payment and webhook handling
 - Booking history for users and hotel owners
 
-## How to Run
+## Getting Started
 
 https://fastlodge.vercel.app/
 
