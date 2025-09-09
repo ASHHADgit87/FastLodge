@@ -12,7 +12,7 @@
   - Stripe integration for online payments  
   - Clerk authentication for secure user management  
 
-- 🎨 **Backend:**  
+- ⚙️ **Backend:**  
   - Node.js and Express.js REST API  
   - MongoDB for data storage (Mongoose ODM)  
   - CRUD operations for hotels, rooms, bookings, and users  
