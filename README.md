@@ -4,7 +4,7 @@
 
 ## ✨ Features
 
-- **Frontend:**  
+- 🎨**Frontend:**  
   - Built with React.js, HTML, CSS, and JavaScript  
   - Responsive UI for hotel search, registration, and booking  
   - App-wide state management using React Context API  
@@ -12,7 +12,7 @@
   - Stripe integration for online payments  
   - Clerk authentication for secure user management  
 
-- **Backend:**  
+- 🎨 **Backend:**  
   - Node.js and Express.js REST API  
   - MongoDB for data storage (Mongoose ODM)  
   - CRUD operations for hotels, rooms, bookings, and users  
