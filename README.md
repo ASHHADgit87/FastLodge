@@ -2,6 +2,20 @@
 
 **FastLodge** is a full-stack hotel booking platform built with the MERN stack and modern web technologies.
 
+---
+
+## 🏛️ Architecture
+
+FastLodge follows a Multi-Tier Client–Server Architecture, ensuring a clean separation of frontend, backend, and database for scalability, maintainability, and security.
+
+---
+
+## ## ☁️ SaaS 
+
+FastLodge follows the **Software as a Service (SaaS)** model by providing centrally hosted functionality that users access through authenticated accounts without local installation.
+
+---
+
 ## ✨ Features
 
 - 🎨**Frontend:**  
